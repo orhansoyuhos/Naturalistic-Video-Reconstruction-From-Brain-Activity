@@ -13,6 +13,8 @@ After 4 months, I had to return to Trento to continue my master's degree and cou
 
 ![frame](https://user-images.githubusercontent.com/44211738/159025612-467cd905-bff7-443b-bdb2-d867f484e188.PNG)
 
+*RFSimage = receptive field signal images
+
 ### Training set
 ![whole_video_training](https://user-images.githubusercontent.com/44211738/159027779-0ebc0967-257d-4944-bc80-48be91707788.gif)
 
