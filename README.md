@@ -1,5 +1,5 @@
 # Naturalistic-Video-Reconstruction-From-Brain-Activity
-Based on the subject's eye-tracking data, my research aimed to enable naturalistic video reconstruction from the brain data of participants who have free-viewed movies during fMRI recording.
+I worked on this project during my Erasmus+ internship at the Donders Institute. Based on the subject's eye-tracking data, my research aimed to enable naturalistic video reconstruction from the brain data of participants who have free-viewed movies during fMRI recording.
 
 You can find more details in 'InternshipReport_23.02.2021_OrhanSoyuhos.pdf'.
 
