@@ -1,5 +1,10 @@
 # Naturalistic-Video-Reconstruction-From-Brain-Activity
-I worked on this project during my Erasmus+ internship at the Donders Institute. Based on the subject's eye-tracking data, my research aimed to enable naturalistic video reconstruction from the brain data of participants who have free-viewed movies during fMRI recording.
+
+In this project, we aimed to enhance naturalistic video reconstruction methods by incorporating eye-tracking recordings from participants who freely viewed movies. The research used an extension of the studyforrest dataset, which included fMRI scans and eye gaze recordings of participants who watched the movie "Forrest Gump" during a two-hour 3 Tesla fMRI acquisition.
+
+The methodology involved several steps, including preprocessing movie frames based on eye gaze data, transforming BOLD responses of selected voxels to a tensor in pixel space, calculating receptive field locations and signals for voxels in the early visual cortex, generating targets for receptive field signals, and matching receptive field signals with their target frames.
+
+After four months, I had to return to Trento to continue my master's degree, and the project reached a point where further work was needed to improve the results. The initial outcomes suggested that a two-hour-long movie might not have been enough to prevent the problem of overfitting, especially considering the TR time of fMRI recordings was 2 seconds.
 
 You can find more details in 'InternshipReport_23.02.2021_OrhanSoyuhos.pdf'.
 
@@ -7,8 +12,6 @@ You can find more details in 'InternshipReport_23.02.2021_OrhanSoyuhos.pdf'.
 Studyforrest dataset (https://www.studyforrest.org/).
 
 ## Initial Results
-After 4 months, I had to return to Trento to continue my master's degree and could not finalize this project. You can see the initials results below. I believe a two-hour-long movie was not enough to prevent the problem of overfitting, especially when the TR time of fMRI recordings were 2 seconds.   
-
        fixed RFSimage     |    reconstruction   |      ground truth
 
 ![frame](https://user-images.githubusercontent.com/44211738/159025612-467cd905-bff7-443b-bdb2-d867f484e188.PNG)
