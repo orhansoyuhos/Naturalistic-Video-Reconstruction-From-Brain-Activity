@@ -11,7 +11,7 @@ You can find more details in 'InternshipReport_23.02.2021_OrhanSoyuhos.pdf'.
 ### Dataset
 Studyforrest dataset (https://www.studyforrest.org/).
 
-## Initial Results
+## Preliminary Results
        fixed RFSimage     |    reconstruction   |      ground truth
 
 ![frame](https://user-images.githubusercontent.com/44211738/159025612-467cd905-bff7-443b-bdb2-d867f484e188.PNG)
