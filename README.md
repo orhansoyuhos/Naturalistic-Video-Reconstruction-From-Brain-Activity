@@ -1,10 +1,10 @@
 # Naturalistic-Video-Reconstruction-From-Brain-Activity
 
-In this project, we aimed to enhance naturalistic video reconstruction methods by incorporating eye-tracking recordings from participants who freely viewed movies. The research used an extension of the studyforrest dataset, which included fMRI scans and eye gaze recordings of participants who watched the movie "Forrest Gump" during a two-hour 3 Tesla fMRI acquisition.
+In this project, we aimed to enhance naturalistic video reconstruction methods by incorporating eye-tracking recordings of participants as they freely viewed movies. We used the studyforrest dataset, which contains fMRI and eye-tracking data of people viewing 'Forrest Gump' during a 2-hour fMRI session. The goal was to create video reconstructions that closely mimic actual viewing experiences.
 
-The methodology involved several steps, including preprocessing movie frames based on eye gaze data, transforming BOLD responses of selected voxels to a tensor in pixel space, calculating receptive field locations and signals for voxels in the early visual cortex, generating targets for receptive field signals, and matching receptive field signals with their target frames.
+The methodology involved several steps, including preprocessing movie frames based on eye gaze data, transforming BOLD responses from selected voxels into a tensor in pixel space, calculating receptive field locations and signals for voxels in the early visual cortex, generating targets for these receptive field signals, and matching the receptive field signals with their target frames.
 
-After four months, I had to return to Trento to continue my master's degree, and the project reached a point where further work was needed to improve the results. The initial outcomes suggested that a two-hour-long movie might not have been enough to prevent the problem of overfitting, especially considering the TR time of fMRI recordings was 2 seconds.
+I was involved in the project for four months before I had to return to Trento to continue my master’s degree. By that time, the project needed further work to enhance the results. Preliminary findings suggested a potential challenge of overfitting, due to the two-hour length of the film and the 2-second temporal resolution of the fMRI recordings.
 
 You can find more details in 'InternshipReport_23.02.2021_OrhanSoyuhos.pdf'.
 
