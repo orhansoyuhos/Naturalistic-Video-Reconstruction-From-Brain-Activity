@@ -35,6 +35,6 @@ https://user-images.githubusercontent.com/44211738/159060972-861e4197-abbb-4d0c-
 https://youtu.be/vN6WF19ulAE
 
 ## Acknowledgement
-- This project was part of my research internship at Donders AI for Neurotech Lab. I would like to thank Dr. Yağmur Güçlütürk, Dr. Umut Güçlü and Lynn Le's supervison during my training.
+- This project was part of my research internship at the Donders AI for Neurotech Lab. I would like to thank Dr. Yağmur Güçlütürk, Dr. Umut Güçlü, and Lynn Le for their supervision during my training.
 - The original code on GANs (brain2pix model; located inside code/Reconstructing Videos/) to reconstruct movie frames based on the code published here: https://github.com/neuralcodinglab/brain2pix. 
 - Please see the paper for Brain2Pix model here: https://www.biorxiv.org/content/10.1101/2021.02.02.429430v2.abstract. 
