@@ -1,10 +1,10 @@
-# Naturalistic-Video-Reconstruction-From-Brain-Activity
+# Naturalistic video reconstruction from brain activity
 
 In this project, we aimed to enhance naturalistic video reconstruction methods by incorporating eye-tracking recordings of participants as they freely viewed movies. We used the studyforrest dataset, which contains fMRI and eye-tracking data of people viewing ‘Forrest Gump’ during a 2-hour fMRI session. The goal was to create video reconstructions that closely mimic actual viewing experiences.
 
 The methodology involved several steps, including preprocessing movie frames based on eye gaze data, transforming BOLD responses from selected voxels into a tensor in pixel space, calculating receptive field locations and signals for voxels in the early visual cortex, generating targets for these receptive field signals, and matching the receptive field signals with their target frames.
 
-I was involved in the project for four months before I had to return to Trento to continue my master’s degree. By that time, the project needed further work to enhance the results. Preliminary findings suggested a potential challenge of overfitting, due to the two-hour length of the film and the 2-second temporal resolution of the fMRI recordings.
+I was involved in the project for four months before I had to return to Trento to continue my master’s degree. By that time, the project needed further work to improve the results. Preliminary findings suggested overfitting, likely due to the two-hour length of the film and the 2-second temporal resolution of the fMRI recordings.
 
 You can find more details in ‘InternshipReport_23.02.2021_OrhanSoyuhos.pdf’.
 
